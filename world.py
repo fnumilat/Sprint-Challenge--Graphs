@@ -1,6 +1,7 @@
 from room import Room
 import random
 import math
+from gettext import gettext as _
 
 class World:
     def __init__(self):
